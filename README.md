@@ -1,16 +1,13 @@
-### Hi there 👋
+### I'm Gabriel.
+#### ~ just a tech guy, developer, passionate about computing.
 
-<!--
-**G40b/G40b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://instagram.com/gabriel0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/gabrielmarques.tech" height="20" width="24" /></a>
+<a href="https://github.com/G40b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="" height="20" width="24" /></a>
+<a href="https://youtube.com/@gabriel0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/@gabriel0x01" height="20" width="24" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
