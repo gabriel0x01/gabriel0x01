@@ -1,6 +1,16 @@
 ### I'm Gabriel. 👋 
 _Just a tech guy, developer, passionate about computing!_
 
+
+<h4>I'm currently mostly involved with:</h4>
+
+\
+<a href="#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="33" width="40" title="Java"/></a>
+<a href="#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" height="30" width="40" title="Quarkus"/></a>
+<a href="#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" width="40" title="ANSI C"/></a>
+
+
+          
 ##
 
 <h4 align="left">📫 How to reach me:</h4>
